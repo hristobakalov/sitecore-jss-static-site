@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "",
+    "apiKey": "{25606D2B-DCC3-479A-BA95-F0799AA753B3}",
+    "deploySecret": "iwnzyqdia59z38wa5t665huo9h9gc2yxmnsuf6li0ca",
+    "deployUrl": "https://hri-jss-paas-93-bestpracti-206480-cm.azurewebsites.net/sitecore/api/jss/import",
+    "layoutServiceHost": "https://hri-jss-paas-93-bestpracti-206480-cd.azurewebsites.net"
+  }
+}

@@ -1,0 +1,9 @@
+id: EX-01
+fields:
+  pageTitle: EX-01
+placeholders:
+  jss-main:
+  - componentName: ContentBlock
+    fields:
+      heading: EX-01
+      content: Exercise Done!

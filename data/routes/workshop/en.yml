@@ -1,0 +1,9 @@
+id: workshop
+fields:
+  pageTitle: Workshop Exercises
+placeholders:
+  jss-main:
+  - componentName: ContentBlock
+    fields:
+      heading: Workshop Exercises
+      content: Exercises

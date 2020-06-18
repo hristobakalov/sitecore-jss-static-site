@@ -1,0 +1,28 @@
+id: EX-05
+fields:
+  pageTitle: Exercise 05
+placeholders:
+  jss-main:
+  - componentName: ContentBlock
+    fields:
+      heading: EX-05
+      content: Placeholders
+  - componentName: TwoColumn
+    placeholders:
+      jss-left-column:
+        - componentName: Quote
+          params: {
+            backgroundColor: '#d67124',
+            fontColor: '#ffffff',
+            fontSize: 20
+          }
+          fields:
+            quote: Tell me and I forget. Teach me and I remember. Involve me and I learn.
+            author: Benjamin Franklin
+      jss-right-column:
+        - componentName: ContentBlock
+          fields:
+            content: Right Column Content
+         
+
+

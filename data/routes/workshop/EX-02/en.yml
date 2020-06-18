@@ -1,0 +1,6 @@
+id: EX-02
+fields:
+  pageTitle: Exercise 02
+placeholders:
+  jss-main:
+    - id: exercise2content

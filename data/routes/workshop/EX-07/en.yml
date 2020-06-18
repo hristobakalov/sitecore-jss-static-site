@@ -1,0 +1,24 @@
+id: EX-07
+fields:
+  pageTitle: Exercise 07
+placeholders:
+  jss-main:
+  - componentName: TwoColumn
+    placeholders:
+      jss-left-column:
+        - componentName: Quote
+          params: {
+            backgroundColor: '#d67124',
+            fontColor: '#ffffff',
+            fontSize: 20
+          }
+          fields:
+            quote: Tell me and I forget. Teach me and I remember. Involve me and I learn.
+            author: Benjamin Franklin
+      jss-right-column:
+        - componentName: ContentBlock
+          fields:
+            content: Right Column Content
+        - componentName: TrackerButton
+          fields:
+            title: Trigger Goal

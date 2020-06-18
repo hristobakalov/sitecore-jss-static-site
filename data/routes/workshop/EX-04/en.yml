@@ -1,0 +1,21 @@
+id: EX-04
+fields:
+  pageTitle: Exercise 04
+placeholders:
+  jss-main:
+  - componentName: ContentBlock
+    fields:
+      heading: EX-04
+      content: Placeholders
+  - componentName: TwoColumn
+    placeholders:
+      jss-left-column:
+        - componentName: ContentBlock
+          fields:
+            content: Left Column Content
+      jss-right-column:
+        - componentName: ContentBlock
+          fields:
+            content: Right Column Content
+
+

@@ -1,0 +1,18 @@
+id: EX-03
+fields:
+  pageTitle: Exercise 03
+placeholders:
+  jss-main:
+  - componentName: ContentBlock
+    fields:
+      heading: EX-03
+      content: Add a component
+  - componentName: MegaHero
+    fields:
+      heading: Heading
+      lead: This is the lead
+      text: <p><strong>some RichText</strong></p>
+      link:
+        href: /
+        text: Home
+
